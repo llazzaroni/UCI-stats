@@ -3,8 +3,11 @@ __pycache__/
 *.py[cod]
 *$py.class
 
-# Ignore all CSV files
-*.csv
+# Ignore all files with no dot in their name (i.e., no extension)
+**/[^.]*
 
-# Ignore all the txt
-*.txt
+# Re-allow directories (so only files are ignored)
+!**/[^.]*/
+
+# Whitelist specific extensionless files you DO want:
+!README
