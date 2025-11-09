@@ -3,11 +3,7 @@ __pycache__/
 *.py[cod]
 *$py.class
 
-# Ignore all files with no dot in their name (i.e., no extension)
-**/[^.]*
-
-# Re-allow directories (so only files are ignored)
-!**/[^.]*/
-
-# Whitelist specific extensionless files you DO want:
-!README
+# Example: ignore extensionless files in these folders
+data/*
+raw_data/*
+tmp/*
