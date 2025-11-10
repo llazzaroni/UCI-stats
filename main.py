@@ -16,8 +16,27 @@ def main(args):
         process_tables(input_path, output_path)
     if args.statistics:
         input_path = args.data
+        podiums = most_podiums(input_path)
+        print(podiums)
+        podiums = most_podiums_gt(input_path)
+        print(podiums)
         podiums = most_podiums_monuments(input_path)
         print(podiums)
+        podiums = most_podiums_monuments_wc(input_path)
+        print(podiums)
+        podiums = most_podiums_monuments_wc_gt(input_path)
+        print(podiums)
+        podiums = most_wins(input_path)
+        print(podiums)
+        podiums = most_wins_gt(input_path)
+        print(podiums)
+        podiums = most_wins_monuments(input_path)
+        print(podiums)
+        podiums = most_wins_monuments_wc(input_path)
+        print(podiums)
+        podiums = most_wins_monuments_wc_gt(input_path)
+        print(podiums)
+
 
 
 if __name__ == "__main__":
@@ -29,4 +48,3 @@ if __name__ == "__main__":
     p.add_argument("--output")
     args = p.parse_args()
     main(args)
-
