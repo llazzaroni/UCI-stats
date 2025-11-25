@@ -38,9 +38,9 @@ Process raw data:
 python main,py --process-data True --data RAW_DATA_DIR --output DATA_DIR
 ```
 
-Obtain the statistics:
+Obtain the statistics. They will be printed in a txt file in the output directory. You can choose the number of cyclists to consider by adding the flag --number-cyclists (the default is 8), and the statistics to print by adding the flag --include (the default is all of them):
 
 ```bash
-python main.py --statistics True --data DATA_DIR
+python main.py --statistics True --data DATA_DIR --output OUTPUT_DIR
 ```
 
