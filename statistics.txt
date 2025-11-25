@@ -1,0 +1,100 @@
+8 cyclists with most podiums in Amstel Gold Race, Tour of Flanders, La Flèche Wallonne, Gent-Wevelgem, Giro d'Italia, Liège Bastogne Liège, Giro di Lombardia, Milano Sanremo, Paris-Roubaix, Tour de France, Vuelta a España, World Championship Road Race
+eddy merckx: 56
+alejandro valverde: 39
+roger de vlaeminck: 30
+francesco moser: 28
+tadej pogacar: 28
+felice gimondi: 28
+fausto coppi: 27
+bernard hinault: 26
+
+8 cyclists with most podiums Grand Tours
+jacques anquetil: 13
+eddy merckx: 12
+felice gimondi: 12
+bernard hinault: 12
+vincenzo nibali: 11
+gino bartali: 10
+raymond poulidor: 10
+alberto contador: 9
+
+8 cyclists with most podiums in cycling Monuments
+eddy merckx: 29
+roger de vlaeminck: 21
+fabian cancellara: 16
+sean kelly: 15
+johan museeuw: 15
+costante girardengo: 15
+francesco moser: 15
+mathieu van der poel: 14
+
+8 cyclists with most podiums in cycling Monuments and Wolrd Championship Road Race
+eddy merckx: 32
+roger de vlaeminck: 22
+alejandro valverde: 18
+francesco moser: 18
+rik van looy: 17
+tadej pogacar: 17
+sean kelly: 17
+costante girardengo: 16
+
+8 cyclists with most podiums in cycling Monuments, Wolrd Championship Road Race and Grand Tours
+eddy merckx: 44
+alejandro valverde: 27
+fausto coppi: 25
+felice gimondi: 25
+tadej pogacar: 24
+francesco moser: 24
+gino bartali: 23
+roger de vlaeminck: 22
+
+8 cyclists with most wins in Amstel Gold Race, Tour of Flanders, La Flèche Wallonne, Gent-Wevelgem, Giro d'Italia, Liège Bastogne Liège, Giro di Lombardia, Milano Sanremo, Paris-Roubaix, Tour de France, Vuelta a España, World Championship Road Race
+eddy merckx: 40
+bernard hinault: 20
+tadej pogacar: 19
+fausto coppi: 18
+rik van looy: 14
+alfredo binda: 14
+roger de vlaeminck: 12
+gino bartali: 12
+
+8 cyclists with most wins Grand Tours
+eddy merckx: 11
+bernard hinault: 10
+alberto contador: 9
+jacques anquetil: 8
+fausto coppi: 7
+miguel indurin: 5
+felice gimondi: 5
+alfredo binda: 5
+
+8 cyclists with most wins in cycling Monuments
+eddy merckx: 19
+roger de vlaeminck: 11
+tadej pogacar: 10
+costante girardengo: 9
+fausto coppi: 9
+sean kelly: 9
+rik van looy: 8
+mathieu van der poel: 8
+
+8 cyclists with most wins in cycling Monuments and Wolrd Championship Road Race
+eddy merckx: 22
+tadej pogacar: 12
+roger de vlaeminck: 11
+fausto coppi: 10
+rik van looy: 10
+sean kelly: 9
+alfredo binda: 9
+costante girardengo: 9
+
+8 cyclists with most wins in cycling Monuments, Wolrd Championship Road Race and Grand Tours
+eddy merckx: 33
+fausto coppi: 17
+tadej pogacar: 16
+bernard hinault: 16
+alfredo binda: 14
+gino bartali: 12
+roger de vlaeminck: 11
+costante girardengo: 11
+
